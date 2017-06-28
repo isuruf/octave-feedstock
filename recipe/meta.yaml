@@ -43,7 +43,6 @@ requirements:
     - suitesparse 4.5.*
     - zlib 1.2.*
     - bzip2 1.0.*
-    - portaudio 19
     - libsndfile 1.0.27
     - qscintilla2 2.9.*
     # Following gets linked at the end.
@@ -71,7 +70,6 @@ requirements:
     - suitesparse 4.5.*
     - zlib 1.2.*
     - bzip2 1.0.*
-    - portaudio 19
     - libsndfile >=1.0.27,<1.1
     - qscintilla2 2.9.*
     # Following gets linked at the end.

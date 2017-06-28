@@ -15,6 +15,7 @@ chmod +x build-aux/mk-opts.pl
     --enable-dl \
     --without-qhull \
     --without-qrupdate \
+    --without-portaudio \
     --with-qt=5 \
     --without-magick \
     --without-opengl \
